@@ -20,9 +20,9 @@ Daily New Quizzes related to General Knowledge.
   
 <img src="https://user-images.githubusercontent.com/101611806/194323575-40270af8-5c3b-4a12-b89d-2bac735e28aa.png" width=22% height=35%>
 
-<img src="https://user-images.githubusercontent.com/101611806/194323601-a4902bd2-6232-4029-83e6-201e66e9d6ba.jpg" width=22% height=35%>
+<img src="https://user-images.githubusercontent.com/101611806/194324590-54ef2d65-e111-47dc-ab25-2b48a70b11d3.png" width=22% height=35%>
   
-<img src="https://user-images.githubusercontent.com/101611806/194323644-25218a90-188d-47e4-8d7c-eac453176fe9.jpg" width=22% height=35%>
+<img src="https://user-images.githubusercontent.com/101611806/194324702-73d9ba79-72a0-4768-9341-e33714a57243.png" width=22% height=35%>
    
  <img src="https://user-images.githubusercontent.com/101611806/194323672-79dfed85-7af9-47e9-aadb-128319ec7ab9.png" width=22% height=35%>
  
@@ -31,6 +31,7 @@ Daily New Quizzes related to General Knowledge.
    <img src="https://user-images.githubusercontent.com/101611806/194323751-caed889f-fdc7-459c-9a60-3bd3dd1836d4.png" width=22% height=35%>
  
 </p>
+
 
 
 ## Built With 
