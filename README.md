@@ -15,7 +15,22 @@ Daily New Quizzes related to General Knowledge.
 * View and Data Binding
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+<p float="center">
+  
+<img src="https://user-images.githubusercontent.com/101611806/194323575-40270af8-5c3b-4a12-b89d-2bac735e28aa.png" width=22% height=35%>
+
+<img src="https://user-images.githubusercontent.com/101611806/194323601-a4902bd2-6232-4029-83e6-201e66e9d6ba.jpg" width=22% height=35%>
+  
+<img src="https://user-images.githubusercontent.com/101611806/194323644-25218a90-188d-47e4-8d7c-eac453176fe9.jpg" width=22% height=35%>
+   
+ <img src="https://user-images.githubusercontent.com/101611806/194323672-79dfed85-7af9-47e9-aadb-128319ec7ab9.png" width=22% height=35%>
+ 
+  <img src="https://user-images.githubusercontent.com/101611806/194323731-b849fc32-1b26-4ef5-a585-ce32e47b095a.png" width=22% height=35%>
+  
+   <img src="https://user-images.githubusercontent.com/101611806/194323751-caed889f-fdc7-459c-9a60-3bd3dd1836d4.png" width=22% height=35%>
+ 
+</p>
 
 
 ## Built With 
