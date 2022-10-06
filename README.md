@@ -23,8 +23,9 @@ Daily New Quizzes related to General Knowledge.
 <img src="https://user-images.githubusercontent.com/101611806/194324590-54ef2d65-e111-47dc-ab25-2b48a70b11d3.png" width=25% height=35%>
    
 
-   <img src="https://user-images.githubusercontent.com/101611806/194323731-b849fc32-1b26-4ef5-a585-ce32e47b095a.png" width=25% height=35%>
+   
 <img src="https://user-images.githubusercontent.com/101611806/194324702-73d9ba79-72a0-4768-9341-e33714a57243.png" width=25% height=35%>
+  <img src="https://user-images.githubusercontent.com/101611806/194323731-b849fc32-1b26-4ef5-a585-ce32e47b095a.png" width=25% height=35%>
  <img src="https://user-images.githubusercontent.com/101611806/194325000-4a18b182-74e4-471b-825b-07dcc59254d1.png" width=25% height=35%>
    
 
