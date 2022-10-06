@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:id="@+id/NumberSequence"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/_10sdp"
+        android:fontFamily="@font/inter_bold"
+        android:text="1"
+        android:textColor="@color/black"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/Questions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/NumberSequence"
+        android:layout_marginLeft="@dimen/_20sdp"
+        android:fontFamily="@font/inter_bold"
+        android:text="Questions"
+        android:textColor="@color/black" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Questions"
+        android:layout_margin="10dp">
+
+        <RadioGroup
+            android:id="@+id/RBGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/OptionA"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="OptionA" />
+
+            <RadioButton
+                android:id="@+id/OptionB"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="OptionA" />
+
+            <RadioButton
+                android:id="@+id/OptionC"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="OptionA" />
+
+            <RadioButton
+                android:id="@+id/OptionD"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="OptionA" />
+
+        </RadioGroup>
+
+
+        <Button
+            android:id="@+id/Result"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/RBGroup"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:background="@drawable/custom_input"
+            android:fontFamily="@font/inter_semibold"
+            android:gravity="center"
+            android:text="Check"
+            android:textAllCaps="false"
+            android:textSize="@dimen/_10sdp" />
+    </RelativeLayout>
+
+
+</RelativeLayout>
